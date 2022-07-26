@@ -1,0 +1,15 @@
+D:\Senai\Back-end\SA2\Exercicios\exercicio07\bin\Debug\net6.0\exercicio07.exe
+D:\Senai\Back-end\SA2\Exercicios\exercicio07\bin\Debug\net6.0\exercicio07.deps.json
+D:\Senai\Back-end\SA2\Exercicios\exercicio07\bin\Debug\net6.0\exercicio07.runtimeconfig.json
+D:\Senai\Back-end\SA2\Exercicios\exercicio07\bin\Debug\net6.0\exercicio07.dll
+D:\Senai\Back-end\SA2\Exercicios\exercicio07\bin\Debug\net6.0\ref\exercicio07.dll
+D:\Senai\Back-end\SA2\Exercicios\exercicio07\bin\Debug\net6.0\exercicio07.pdb
+D:\Senai\Back-end\SA2\Exercicios\exercicio07\obj\Debug\net6.0\exercicio07.csproj.AssemblyReference.cache
+D:\Senai\Back-end\SA2\Exercicios\exercicio07\obj\Debug\net6.0\exercicio07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Back-end\SA2\Exercicios\exercicio07\obj\Debug\net6.0\exercicio07.AssemblyInfoInputs.cache
+D:\Senai\Back-end\SA2\Exercicios\exercicio07\obj\Debug\net6.0\exercicio07.AssemblyInfo.cs
+D:\Senai\Back-end\SA2\Exercicios\exercicio07\obj\Debug\net6.0\exercicio07.csproj.CoreCompileInputs.cache
+D:\Senai\Back-end\SA2\Exercicios\exercicio07\obj\Debug\net6.0\exercicio07.dll
+D:\Senai\Back-end\SA2\Exercicios\exercicio07\obj\Debug\net6.0\ref\exercicio07.dll
+D:\Senai\Back-end\SA2\Exercicios\exercicio07\obj\Debug\net6.0\exercicio07.pdb
+D:\Senai\Back-end\SA2\Exercicios\exercicio07\obj\Debug\net6.0\exercicio07.genruntimeconfig.cache
